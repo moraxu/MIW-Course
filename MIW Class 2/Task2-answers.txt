@@ -1,0 +1,74 @@
+1. lubi(piotr, wino)
+True
+1 Solution
+
+2. lubi(piotr, X)
+X= banany
+X= wino
+X= tenis
+3 Solutions
+
+3. lubi(marta, X)
+X= wino
+X= mandarynki
+X= tenis
+X= kwiaty
+4 Solutions
+
+4. lubi(marta, _)
+True
+1 Solution
+
+5. lubi(X, tenis)
+X= marta
+X= piotr
+X= jan
+X= ania
+4 Solutions
+
+6. lubi(_, jablka)
+No solutions
+
+7. lubi(ania, X)
+X= wino
+X= tenis
+2 Solutions
+
+8. lubi(X, Y)
+X= marta, Y= wino
+X= marta, Y= mandarynki
+X= marta, Y= tenis
+X= marta, Y= kwiaty
+X= piotr, Y= banany
+X= piotr, Y= wino
+X= piotr, Y= tenis
+X= jan, Y= banany
+X= jan, Y= wino
+X= jan, Y= tenis
+X= ania, Y= wino
+X= ania, Y= tenis
+12 Solutions
+
+9. lubi(marta, X)
+X= wino
+X= mandarynki
+X= tenis
+X= kwiaty
+4 Solutions
+
+lubi(piotr, X)
+X= banany
+X= wino
+X= tenis
+3 Solutions
+
+lubi(jan, X)
+X= banany
+X= wino
+X= tenis
+3 Solutions
+
+lubi(ania, X)
+X= wino
+X= tenis
+2 Solutions

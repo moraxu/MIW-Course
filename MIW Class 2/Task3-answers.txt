@@ -1,0 +1,10 @@
+jest_rodzina(ala, burek)
+No solutions
+jest_pokrewienstwo(ala, burek)
+True
+1 Solution
+jest_rodzina(ala, marta)
+True
+1 Solution
+jest_pokrewienstwo(misiek, lena)
+No solutions

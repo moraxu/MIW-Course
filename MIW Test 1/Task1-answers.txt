@@ -1,0 +1,16 @@
+1. mezczyzna(X)
+X= tomek
+X= max
+2 Solutions
+
+2. mezczyzna(tomek)
+True
+1 Solution
+
+3. rodzic(ola,max)
+True
+1 Solution
+
+4. rodzic(ola, X)
+X= max
+1 Solution

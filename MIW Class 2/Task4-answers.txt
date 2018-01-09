@@ -1,0 +1,39 @@
+lubi(ola, X)
+X= ola
+X= jan
+X= pawel
+3 Solutions
+
+lubi(ewa, X)
+X= ola
+X= ewa
+X= jan
+3 Solutions
+
+lubi(iza, X)
+X= ola
+X= iza
+X= piotr
+X= ola
+X= jan
+5 Solutions
+
+lubi(janek, X)
+X= ola
+X= jan
+X= piotr
+X= pawel
+4 Solutions
+
+lubi(piotr, X)
+X= ola
+X= jan
+X= pawel
+X= ola
+X= iza
+X= piotr
+6 Solutions
+
+lubi(pawel, X)
+X= ola
+1 Solution

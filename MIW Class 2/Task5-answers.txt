@@ -1,0 +1,24 @@
+1. jest_szczesliwa_osoba(X)
+X= ala
+X= ula
+X= piotr
+X= piotr
+4 Solutions
+
+2. lubi(X, Y)
+X= piotr, Y= ala
+X= adam, Y= ala
+X= jan, Y= ala
+X= piotr, Y= ula
+X= ula, Y= piotr
+X= ala, Y= piotr
+6 Solutions
+
+3. piekna_osoba(X)
+X= ala
+X= piotr
+2 Solutions
+
+4. 
+
+5.

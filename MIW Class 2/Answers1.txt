@@ -1,0 +1,27 @@
+1. lubi(jerzy,sudety)
+No solutions
+
+2. lubi(jan, X)
+X= tatry
+X= beskidy
+2 Solutions
+
+3. lubi(X, bieszczady)
+X= jerzy
+X= justyna
+2 Solutions
+
+4. bratnia_dusza(jan, _)
+True
+1 Solution
+
+5. bratnia_dusza(justyna, X)
+X= jerzy
+1 Solution
+
+6. bratnia_dusza(X, Y)
+X= jan, Y= jerzy
+X= jerzy, Y= jan
+X= jerzy, Y= justyna
+X= justyna, Y= jerzy
+4 Solutions
