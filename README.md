@@ -1,2 +1,2 @@
 # MIW-Course
-My solutions in Prolog to Methods for Knowledge Engineering cource
+My solutions in Prolog and CLIPS to Methods for Knowledge Engineering cource
